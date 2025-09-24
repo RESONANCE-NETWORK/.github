@@ -33,28 +33,39 @@ Thanks goes to the amazing people who make **RESONANCE. NETWORK** possible:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/KhallG.png" width="100px;" alt="Khall"/><br />
+      <a href="https://github.com/KhallG">
+        <img src="https://github.com/KhallG.png" width="100px;" alt="Khall"/>
+      </a><br />
       <sub><b>Khall</b></sub><br />💻🎨📖
     </td>
     <td align="center">
-      <img src="https://github.com/mixvd.png" width="100px;" alt="Mixed"/><br />
+      <a href="https://github.com/mixvd">
+        <img src="https://github.com/mixvd.png" width="100px;" alt="Mixed"/>
+      </a><br />
       <sub><b>Mixed</b></sub><br />💻🎨📖
     </td>
     <td align="center">
-      <img src="https://github.com/Biscorn.png" width="100px;" alt="heRn"/><br />
+      <a href="https://github.com/Biscorn">
+        <img src="https://github.com/Biscorn.png" width="100px;" alt="heRn"/>
+      </a><br />
       <sub><b>heRn</b></sub><br />💻
     </td>
     <td align="center">
-      <img src="https://github.com/Biazox44.png" width="100px;" alt="Biazox"/><br />
+      <a href="https://github.com/Biazox44">
+        <img src="https://github.com/Biazox44.png" width="100px;" alt="Biazox"/>
+      </a><br />
       <sub><b>Biazox</b></sub><br />📖💡🧪
     </td>
     <td align="center">
-      <img src="https://github.com/Toheyyy.png" width="100px;" alt="Toheyyy"/><br />
+      <a href="https://github.com/Toheyyy">
+        <img src="https://github.com/Toheyyy.png" width="100px;" alt="Toheyyy"/>
+      </a><br />
       <sub><b>Toheyyy</b></sub><br />🛠️
     </td>
   </tr>
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
 
 
 
