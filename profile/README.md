@@ -47,7 +47,7 @@ Thanks goes to the amazing people who make **RESONANCE. NETWORK** possible:
 
 - 🌍 Website: [project-resonance.fr](https://project-resonance.fr)  
 - 📧 Email: `contact@project-resonance.fr`  
-- 💬 Community: Links available on our website (Discord, socials, etc.)  
+- 💬 Community: https://www.discord.gg/hlarp
 
 ---
 
