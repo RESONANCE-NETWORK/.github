@@ -66,7 +66,7 @@ Thanks goes to the amazing people who make **RESONANCE. NETWORK** possible:
       <a href="https://github.com/Alucard-png">
         <img src="https://github.com/Alucard-png.png" width="100px;" alt="Alucard"/>
       </a><br />
-      <sub><b>Alucard</b></sub><br />📖💡🧪�️
+      <sub><b>Alucard</b></sub><br />📖💡🧪
     </td>
   </tr>
 </table>
