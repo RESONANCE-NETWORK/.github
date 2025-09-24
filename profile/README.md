@@ -60,7 +60,7 @@ Thanks goes to the amazing people who make **RESONANCE. NETWORK** possible:
       <a href="https://github.com/Toheyyy">
         <img src="https://github.com/Toheyyy.png" width="100px;" alt="Toheyyy"/>
       </a><br />
-      <sub><b>Toheyyy</b></sub><br /><br />🛠️
+      <sub><b>Toheyyy</b></sub><br />🛠️
     </td>
   </tr>
 </table>
