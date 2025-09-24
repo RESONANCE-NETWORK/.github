@@ -1,4 +1,4 @@
-# RESONANCE.NETWORK / RESONANCE-NETWORK
+# RESONANCE. NETWORK
 
 Welcome to the RESONANCE.NETWORK organization!  
 This page gives an overview of who we are, what we build, and how you can get involved.
@@ -20,56 +20,6 @@ We believe in **player agency, emergent storylines, and systems that support imm
 
 ---
 
-## 📂 Organization Purpose & Structure
-
-This GitHub organization is intended to host:
-
-- Server source code (game mods, plugins, backends)  
-- Shared frameworks and libraries we use across RP servers  
-- Tools for community management, event systems, modding support  
-- Documentation, tutorials, and guides for contributors  
-- Assets, scripts, and APIs (where licensing allows)  
-
-As of now, we don’t have public repositories yet (per GitHub display). :contentReference[oaicite:4]{index=4} But this README is a starting point to present our projects more clearly to contributors, collaborators, or prospective players.
-
----
-
-## 🚀 Getting Started
-
-To contribute or get involved:
-
-1. **Explore our public repos** (coming soon) — check for repos like `rl-server`, `rl-plugins`, `common-library`, `frontend-dashboard`, etc.
-2. Read **CONTRIBUTING.md** (once available) for guidelines on coding style, testing, PR process.
-3. Join our **Discord / community channels** (linked on the website) to discuss features, lore, or server events.
-4. Check our **roadmap** or **issues** to see what tasks or features need work.
-5. Respect our **code of conduct / rules** (to be published) — we’re building a friendly, inclusive community.
-
----
-
-## 🎯 Vision & Goals
-
-- Build **immersive RP universes** where player decisions influence the world  
-- Maintain clean, modular, reusable code across all servers  
-- Enable **community-driven storytelling** via quests, events, lore expansions  
-- Support cross-server tools (e.g. identity system, economies, governance)  
-- Eventually open source or partially open parts of infrastructure  
-- Expand to more universes and support multiple RP platforms  
-
----
-
-## 🔧 Tech Stack (Tentative / Evolving)
-
-This will depend on the server types, but possible components include:
-
-- Game server mods / plugins (e.g. for Source, Unity, Unreal)  
-- Backend APIs (Node.js, Python, Go, etc.)  
-- Databases (SQL / NoSQL)  
-- Web frontend or dashboards  
-- Scripting / event engines  
-- Asset pipelines, version control, CI/CD  
-
----
-
 ## 📬 Contact & More Info
 
 - Official website: [project-resonance.fr](https://project-resonance.fr)  
@@ -78,19 +28,7 @@ This will depend on the server types, but possible components include:
 
 ---
 
-## ⚠️ Notes & TODO
-
-- We should publish a **roadmap** or project vision doc  
-- Add **public repos** and move internal code into “core”, “plugin”, “tools” etc.  
-- Add **documentation**, **architecture diagrams**, and **onboarding guides**  
-- Define **license(s)** for shared code and assets  
-- Provide **style guides**, **API docs**, and **examples** for contributors  
-
----
-
-Thank you for your interest in RESONANCE.NETWORK. We look forward to writing cool worlds together.  
-
-_“Immersion is not built by telling the story — it’s built by giving players agency to live it.”_
+Thank you for your interest in RESONANCE. NETWORK. We look forward to writing cool worlds together.  
 
 ---
 
