@@ -33,7 +33,7 @@ Thanks goes to the amazing people who make **RESONANCE. NETWORK** possible:
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/KhallG"><img src="https://github.com/KhallG.png" width="100px;" alt="Khall"/><br /><sub><b><h1>Khall</h1></b></sub></a><br />💻🎨📖</td>
+    <td align="center"><a href="https://github.com/KhallG"><img src="https://github.com/KhallG.png" width="100px;" alt="Khall"/><br /><sub><b><h3>Khall</h3></b></sub></a><br />💻🎨📖</td>
     <td align="center"><a href="https://github.com/mixvd"><img src="https://github.com/mixvd.png" width="100px;" alt="Mixed"/><br /><sub><b>Mixed</b></sub></a><br />💻🎨📖</td>
     <td align="center"><a href="https://github.com/Biscorn"><img src="https://github.com/Biscorn.png" width="100px;" alt="heRn"/><br /><sub><b>heRn</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/Biazox44"><img src="https://github.com/Biazox44.png" width="100px;" alt="Biazox"/><br /><sub><b>Biazox</b></sub></a><br />📖💡🧪</td>
