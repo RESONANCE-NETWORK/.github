@@ -23,7 +23,7 @@ We believe in **player agency, emergent storytelling, and systems that amplify i
 ## 🤝 Contributors
 
 RESONANCE. NETWORK is powered by its community.  
-We welcome contributions in many forms — code, design, documentation, testing, storytelling, and more.  
+We welcome contributions in many forms — 💻 code, 🎨 design, 📖 documentation, 🧪 testing, 💡 ideas, and more.  
 
 ### 👥 Contributors Wall
 
