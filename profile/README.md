@@ -5,7 +5,7 @@ This space gives an overview of who we are, what we build, and how you can get i
 
 ---
 
-## 🌐 About RESONANCE.NETWORK
+## 🌐 About RESONANCE. NETWORK
 
 **RESONANCE. NETWORK** (also known as **Project : Résonance**) is a creative community dedicated to immersive **roleplay (RP) gaming experiences** across multiple universes.  
 Through custom servers, narrative-rich environments, and carefully designed systems, we aim to deliver deep, meaningful roleplay opportunities and dynamic, living worlds.  
