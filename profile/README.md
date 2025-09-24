@@ -23,7 +23,7 @@ We believe in **player agency, emergent storytelling, and systems that amplify i
 ## 🤝 Contributors
 
 RESONANCE. NETWORK is powered by its community.  
-We welcome contributions in many forms — 💻 code, 🎨 design, 📖 documentation, 🧪 testing, 💡 ideas, and more.  
+We welcome contributions in many forms — 💻 code, 🎨 design, 🛠️ modeler, 🗺️ mapper, 📖 documentation, 🧪 testing, 💡 ideas, and more.  
 
 ### 👥 Contributors Wall
 
@@ -37,6 +37,7 @@ Thanks goes to the amazing people who make **RESONANCE. NETWORK** possible:
     <td align="center"><a href="https://github.com/mixvd"><img src="https://github.com/mixvd.png" width="100px;" alt="Mixed"/><br /><sub><b>Mixed</b></sub></a><br />💻🎨📖</td>
     <td align="center"><a href="https://github.com/Biscorn"><img src="https://github.com/Biscorn.png" width="100px;" alt="heRn"/><br /><sub><b>heRn</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/Biazox44"><img src="https://github.com/Biazox44.png" width="100px;" alt="Biazox"/><br /><sub><b>Biazox</b></sub></a><br />📖💡🧪</td>
+    <td align="center"><a href="https://github.com/Toheyyy"><img src="https://github.com/Toheyyy.png" width="100px;" alt="Toheyyy"/><br /><sub><b>Toheyyy</b></sub></a><br />🛠️</td>
   </tr>
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
