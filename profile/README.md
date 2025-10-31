@@ -45,12 +45,6 @@ Thanks goes to the amazing people who make **RESONANCE. NETWORK** possible:
       <sub><b>Mixed</b></sub><br />💻🎨📖
     </td>
     <td align="center">
-      <a href="https://github.com/Biscorn">
-        <img src="https://github.com/Biscorn.png" width="100px;" alt="heRn"/>
-      </a><br />
-      <sub><b>heRn</b></sub><br />💻
-    </td>
-    <td align="center">
       <a href="https://github.com/Biazox44">
         <img src="https://github.com/Biazox44.png" width="100px;" alt="Biazox"/>
       </a><br />
