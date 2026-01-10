@@ -48,7 +48,7 @@ Thanks goes to the amazing people who make **RESONANCE. NETWORKS** possible:
       <a href="https://www.artstation.com/gustmanbd7">
         <img src="https://github.com/Gustman1.png" width="100px;" alt="Gustman"/>
       </a><br />
-      <sub><b>Mixed</b></sub><br />🗺️💡
+      <sub><b>Gustman</b></sub><br />🗺️💡
     </td>
     <td align="center">
       <a href="https://github.com/Biazox44">
