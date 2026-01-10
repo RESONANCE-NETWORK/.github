@@ -1,13 +1,13 @@
-# RESONANCE. NETWORK
+# RESONANCE. NETWORKS
 
-Welcome to the **RESONANCE. NETWORK** organization!  
+Welcome to the **RESONANCE. NETWORKS** organization!  
 This space gives an overview of who we are, what we build, and how you can get involved.
 
 ---
 
-## 🌐 About RESONANCE. NETWORK
+## 🌐 About RESONANCE. NETWORKS
 
-**RESONANCE. NETWORK** (also known as **Project : Résonance**) is a creative community dedicated to immersive **roleplay (RP) gaming experiences** across multiple universes.  
+**RESONANCE. NETWORKS** (also known as **Project : Résonance**) is a creative community dedicated to immersive **roleplay (RP) gaming experiences** across multiple universes.  
 Through custom servers, narrative-rich environments, and carefully designed systems, we aim to deliver deep, meaningful roleplay opportunities and dynamic, living worlds.  
 
 On our official site, you can explore the RP universes we host or are developing:
@@ -22,12 +22,12 @@ We believe in **player agency, emergent storytelling, and systems that amplify i
 
 ## 🤝 Contributors
 
-**RESONANCE. NETWORK** is powered by its community.  
+**RESONANCE. NETWORKS** is powered by its community.  
 We welcome contributions in many forms — 💻 code, 🎨 design, 🛠️ modeler, 🗺️ mapper, 📖 documentation, 🧪 testing, 💡 ideas, and more.  
 
 ### 👥 Contributors Wall
 
-Thanks goes to the amazing people who make **RESONANCE. NETWORK** possible:  
+Thanks goes to the amazing people who make **RESONANCE. NETWORKS** possible:  
 
 <!-- ALL-CONTRIBUTORS-LIST:START -->
 <table>
@@ -76,6 +76,6 @@ Thanks goes to the amazing people who make **RESONANCE. NETWORK** possible:
 
 ---
 
-Thank you for your interest in **RESONANCE. NETWORK**.  
+Thank you for your interest in **RESONANCE. NETWORKS**.  
 
 ---
