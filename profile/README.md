@@ -61,13 +61,6 @@ Thanks goes to the amazing people who make **RESONANCE. NETWORKS** possible:
         <img src="https://github.com/Toheyyy.png" width="100px;" alt="Toheyyy"/>
       </a><br />
       <sub><b>Toheyyy</b></sub><br />🛠️
-    </td>
-        <td align="center">
-      <a href="https://github.com/Alucard-png">
-        <img src="https://github.com/Alucard-png.png" width="100px;" alt="Alucard"/>
-      </a><br />
-      <sub><b>Alucard</b></sub><br />💡🧪
-    </td>
   </tr>
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
