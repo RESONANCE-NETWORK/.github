@@ -45,6 +45,12 @@ Thanks goes to the amazing people who make **RESONANCE. NETWORKS** possible:
       <sub><b>Mixed</b></sub><br />💻🎨📖
     </td>
     <td align="center">
+      <a href="https://github.com/Toheyyy">
+        <img src="https://github.com/Toheyyy.png" width="100px;" alt="Toheyyy"/>
+      </a><br />
+      <sub><b>Toheyyy</b></sub><br />🛠️
+    </td>
+    <td align="center">
       <a href="https://www.artstation.com/gustmanbd7">
         <img src="https://github.com/Gustman1.png" width="100px;" alt="Gustman"/>
       </a><br />
@@ -68,11 +74,6 @@ Thanks goes to the amazing people who make **RESONANCE. NETWORKS** possible:
       </a><br />
       <sub><b>Eclipse</b></sub><br />📖💡🧪
     </td>
-    <td align="center">
-      <a href="https://github.com/Toheyyy">
-        <img src="https://github.com/Toheyyy.png" width="100px;" alt="Toheyyy"/>
-      </a><br />
-      <sub><b>Toheyyy</b></sub><br />🛠️
   </tr>
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
