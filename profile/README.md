@@ -48,7 +48,7 @@ Thanks goes to the amazing people who make **RESONANCE. NETWORKS** possible:
       <a href="https://github.com/Toheyyy">
         <img src="https://github.com/Toheyyy.png" width="100px;" alt="Toheyyy"/>
       </a><br />
-      <sub><b>Toheyyy</b></sub><br />🛠️
+      <sub><b>Toheyyy</b></sub><br />🛠️🎨
     </td>
     <td align="center">
       <a href="https://www.artstation.com/gustmanbd7">
