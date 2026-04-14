@@ -57,6 +57,18 @@ Thanks goes to the amazing people who make **RESONANCE. NETWORKS** possible:
       <sub><b>Biazox</b></sub><br />📖💡🧪
     </td>
     <td align="center">
+      <a href="https://github.com/tientienretiens34">
+        <img src="https://github.com/tientienretiens34.png" width="100px;" alt="Cosmo"/>
+      </a><br />
+      <sub><b>Cosmo</b></sub><br />📖💡🧪
+    </td>
+    <td align="center">
+      <a href="https://github.com/ecliipseae">
+        <img src="https://github.com/ecliipseae.png" width="100px;" alt="Eclipse"/>
+      </a><br />
+      <sub><b>Eclipse</b></sub><br />📖💡🧪
+    </td>
+    <td align="center">
       <a href="https://github.com/Toheyyy">
         <img src="https://github.com/Toheyyy.png" width="100px;" alt="Toheyyy"/>
       </a><br />
