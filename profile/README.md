@@ -36,7 +36,7 @@ Thanks goes to the amazing people who make **RESONANCE. NETWORKS** possible:
       <a href="https://github.com/KhallG">
         <img src="https://github.com/KhallG.png" width="100px;" alt="Khall"/>
       </a><br />
-      <sub><b>Khall</b></sub><br />💻🎨📖
+      <sub><b>Khall</b></sub><br />💻🎨📖🛠️🗺️
     </td>
     <td align="center">
       <a href="https://github.com/mixvd">
